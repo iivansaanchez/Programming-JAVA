@@ -37,4 +37,4 @@ EN ESTE BOLETÍN HAY UN TOTAL DE 5 OBJETOS DE NIVEL BÁSICO.
 
 EN ESTE BOLETÍN HAY UN TOTAL DE 4 OBJETOS DE NIVEL MEDIO
 
-[VISITAR Boletín JOO Medio](https://github.com/iivansaanchez/Programming-JAVA/tree/main/Bolet%C3%ADn2_JOO/src/com/udu) 
+[VISITAR Boletín JOO Medio](https://github.com/iivansaanchez/Programming-JAVA/tree/main/Boletn2_JOO/src/com/udu) 
