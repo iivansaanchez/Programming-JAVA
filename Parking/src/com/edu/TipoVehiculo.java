@@ -1,0 +1,6 @@
+package com.edu;
+
+public enum TipoVehiculo {
+
+	AUTOMOVIL, CICLOMOTOR, TRANSPORTE_COLECTIVO, TRANSPORTE_MERCANCIA;
+}
