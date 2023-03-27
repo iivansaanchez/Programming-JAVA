@@ -31,4 +31,10 @@ EN ESTE BOLETÍN HAY UN TOTAL DE 10 EJERCICIOS DE JAVA, NIVEL MEDIO/ALTO
 
 EN ESTE BOLETÍN HAY UN TOTAL DE 5 OBJETOS DE NIVEL BÁSICO.
 
-[VISITAR Boletn JOO Básico](https://github.com/iivansaanchez/Programming-JAVA/tree/main/Boletin-1-JOO/src)
+[VISITAR Boletín JOO Básico](https://github.com/iivansaanchez/Programming-JAVA/tree/main/Boletin-1-JOO/src)
+
+- ## 2. _BOLETÍN_JOO_2
+
+EN ESTE BOLETÍN HAY UN TOTAL DE 4 OBJETOS DE NIVEL MEDIO
+
+[VISITAR Boletín JOO Medio](https://github.com/iivansaanchez/Programming-JAVA/tree/main/Boleti%CC%81n2_JOO) 
